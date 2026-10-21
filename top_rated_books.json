@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": 54.23,
+        "rating": 5,
+        "availability": "In stock",
+        "link": "http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+    },
+    {
+        "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price": 52.29,
+        "rating": 5,
+        "availability": "In stock",
+        "link": "http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html"
+    },
+    {
+        "title": "Private Paris (Private #10)",
+        "price": 47.61,
+        "rating": 5,
+        "availability": "In stock",
+        "link": "http://books.toscrape.com/catalogue/private-paris-private-10_958/index.html"
+    },
+    {
+        "title": "We Love You, Charlie Freeman",
+        "price": 50.27,
+        "rating": 5,
+        "availability": "In stock",
+        "link": "http://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html"
+    },
+    {
+        "title": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+        "price": 40.3,
+        "rating": 5,
+        "availability": "In stock",
+        "link": "http://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html"
+    }
+]
